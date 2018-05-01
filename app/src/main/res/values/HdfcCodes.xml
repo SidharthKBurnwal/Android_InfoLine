@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hdfcCode">
+        <item>Customer Care Toll Free  - 18004254332 </item>
+        <item>Credit Card Customer Care Kolkata - 61606161</item>
+        <item>Credit Card Customer Care Mumbai - 61606161</item>
+        <item>Credit Card Customer Care Pune - 61606161</item>
+        <item>Credit Card Customer Care Bengaluru - 61606161</item>
+        <item>Credit Card Customer Care Delhi - 61606161</item>
+
+    </string-array>
+
+</resources>

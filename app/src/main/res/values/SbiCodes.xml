@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sbiCode">
+        <item>Customer Service  - 1800223344 </item>
+        <item>Customer Service Optional - 18002584455</item>
+        <item>Customer Service Optional - 18001024455</item>
+        <item></item>
+
+    </string-array>
+
+</resources>

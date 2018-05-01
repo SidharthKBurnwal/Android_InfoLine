@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="airtelCode">
+        <item>Request and Complaints - 198</item>
+        <item>Customer Care - 121</item>
+        <item>Balance Enquiry - *123#</item>
+        <item>Data Balance - *124#</item>
+        <item>Get Talktime Loan - *141*10#</item>
+        <item>Check Call Rates - *121*13#</item>
+        <item>Check 3G balance- *123*11#</item>
+        <item>Check 2G balance - *123*10#</item>
+        <item>Find Special Offers - *121#</item>
+        <item>Know Your Mobile Number - *121*9#</item>
+
+
+
+    </string-array>
+
+</resources>

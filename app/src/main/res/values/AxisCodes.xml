@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="axisCode">
+        <item>Customer Care - 18604195555</item>
+        <item>Customer Care Optional - 18605005555</item>
+        <item>Customer Care For Agri and Rural - 18001035577</item>
+
+
+    </string-array>
+
+</resources>

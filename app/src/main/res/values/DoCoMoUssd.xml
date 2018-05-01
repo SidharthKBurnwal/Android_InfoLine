@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="docomoCode">
+        <item>Customer Care - 198</item>
+        <item>Balance Enquiry -  *191#</item>
+        <item>Best Offer Check - *123#</item>
+        <item>Data Balance - *191*5#</item>
+        <item>Know Your Number - *580#</item>
+        <item>Know Your Number - *191*9*3#</item>
+        <item>VAS Deactivation - 155223 </item>
+        <item>Internet Packs Check - *141*4# </item>
+        <item>Recharge by Coupon - *135*2*#</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vodaCode">
+        <item>Customer Care - 198</item>
+        <item>Balance Enquiry - *123#</item>
+        <item>Data Balance - *123*5#</item>
+
+    </string-array>
+
+</resources>

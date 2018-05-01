@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ideaCode">
+        <item>Customer Care - 198</item>
+        <item>Balance Check - *121#</item>
+        <item>Data Balance - *125#</item>
+        <item>SMS Balance - *161*1#</item>
+        <item>Balance Transfer - *567*</item>
+        <item>4G Activation Code - 1925</item>
+
+    </string-array>
+
+</resources>

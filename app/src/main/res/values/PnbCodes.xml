@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pnbCode">
+        <item>Customer Service  - 18001802222 </item>
+        <item>Customer Service Optional - 18001032222</item>
+        <item></item>
+
+    </string-array>
+
+</resources>

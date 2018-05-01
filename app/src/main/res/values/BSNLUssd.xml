@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bsnlCode">
+        <item>Postpaid/Prepaid Help Number - 18001801503</item>
+        <item>Landline Help Number - 18003451500</item>
+        <item>Broadband Help Number - 18003451504</item>
+        <item>WLL/WiMax Help Number - 18001801502</item>
+
+    </string-array>
+
+</resources>

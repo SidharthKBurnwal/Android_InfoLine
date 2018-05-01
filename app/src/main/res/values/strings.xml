@@ -1,0 +1,68 @@
+<resources>
+
+    <string name="app_name">Info-Line</string>
+    <!--Headings-->
+    <string name="one">Health</string>
+    <string name="two">Bank</string>
+    <string name="three">Network</string>
+
+    <!--Cancer-->
+    <string name="CancerHeading1">About Cancer</string>
+    <string name="CancerIntro">Cancer is ultimately the result of cells that uncontrollably grow and do not die.
+        Normal cells in the body follow an orderly path of growth, division, and death.
+        Programmed cell death is called apoptosis, and when this process breaks down, cancer begins to form.
+        Unlike regular cells, cancer cells do not experience programmatic death and instead continue to grow and divide.
+        This leads to mass of abnormal cells that grows out of control.
+</string>
+
+    <!--Depression-->
+    <string name="DepressionHeading1">Depression, A Significant Concern:</string>
+    <string name="DepressionIntro">What exactly is depression and do we have to concern about it? Or does it really affect our life or can it reach to our health? So many questions right. It’s time to get your fact right about these because a little knowledge can save your life or someone you love. \n Let me quote it \n
+    “Depression is a mental health disorder characterized by persistently depressed mood or loss of interest in activities, causing significant impairment in daily life” \n
+    What this means is simple, we all feel sad, moody or low from time to time. It start to affect our day to day life. Some of us have experience these feelings so deep that it start to endanger our decisions. It may happen for long periods of time. Sometimes it happened without any apparent reason.\n
+    It’s more than just a low mood – it's a serious condition that affects your physical and mental health, not yet but it will start to. It’s a negative mind state which will keep digging until it destroy you. No one wants that so “why exactly will it happen to me? “You may ask yourself. Exactly what I was going to tell</string>
+
+    <!--Diabities-->
+    <string name="DiabitiesHeading1">Diabities, What you must know about it</string>
+    <string name="DiabitiesIntro">Diabetes (diabetes mellitus) is classed as a metabolism disorder.
+        Metabolism refers to the way our bodies use digested food for energy and growth. Most of what we eat is broken down into glucose.
+        Glucose is a form of sugar in the blood - it is the principal source of fuel for our bodies.\n
+        When our food is digested, the glucose makes its way into our bloodstream. Our cells use the glucose for energy and growth.
+        However, glucose cannot enter our cells without insulin being present - insulin makes it possible for our cells to take in the glucose.\n
+        A person with diabetes has a condition in which the quantity of glucose in the blood is too elevated (hyperglycemia).
+        This is because the body either does not produce enough insulin, produces no insulin, or has cells that do not respond properly to the insulin the pancreas produces.
+        This results in too much glucose building up in the blood. This excess blood glucose eventually passes out of the body in urine.
+        So, even though the blood has plenty of glucose, the cells are not getting it for their essential energy and growth requirements.\n
+        There is when your body start to get effected and You need some medications.</string>
+
+    <!--Rape-->
+    <string name="RapeHeading1">First Thing to DO</string>
+    <string name="RapeIntro">Supporting a survivor of sexual violence can be daunting; many people are afraid of saying or doing
+        \'the wrong thing\', or of \'damaging\' someone further because they \'don\'t know enough\'. But you don\'t have to be an expert. If you are prepared to listen, the survivor who has confided in you will be able to guide you in what they need.\n
+        Listen, and show that you are listening, to what she or he has to say, even if it\'s difficult for you to hear.
+        You might have a lot of questions but try not to interrupt.\n
+        Sexual abuse and rape can make a person feel powerless and out of control. Survivors want and deserve to feel in charge of their lives again.
+        So it\'s important you resist the temptation to \'take over\', for example by arranging and doing things that you think are best.
+        Instead, support her/him to explore their feelings and options and make their own decisions.
+        Respect those decisions, even if you don't agree with them. Doing things for a survivor
+        (like making an appointment on their behalf without checking that it's what they want first) can end up making things worse, even when you were only trying to help.\n
+        If it's your partner who has experienced sexual violence of any kind, whether recently or in the past, they might find intimacy and sexual contact difficult.
+        Sometimes they might not even want you physically close, and other times they might seek extra physical comfort from you.
+        Try to remember that this is not a reflection on you or your relationship; it is about your partner's experiences and feelings.
+        Reassure them, respect their wishes and be patient.
+    </string>
+
+    <!--Accident-->
+    <string name="AccidentHeading1">What to DO First</string>
+    <string name="AccidentIntro">Road Accident,this is nothing new for anyone. It\'s so common these days,you can hear one or two such cases everyday. But why does it happen?
+        Why do people who cause these accidents never look back? Why we sometimes walk away when we come across an accident?
+        Is it because of callousness or people do not know what to do when an accident occurs?</string>
+
+    <!--HIV-->
+    <string name="HIVHeading1">What You Must Know</string>
+    <string name="HIVIntro"></string>
+
+    <!--Periods-->
+    <string name="PeriodsHeading1">Periods, What You Must Know</string>
+    <string name="PeriodsIntro"></string>
+</resources>

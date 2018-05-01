@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="iciciCode">
+        <item>Customer Service  West Bengal- 8101667777 </item>
+        <item>Customer Service Kolkata - 03333667777</item>
+        <item>Customer Service Bangalore - 08033667777</item>
+        <item>Customer Service Chennai - 04433667777</item>
+        <item>Customer Service Delhi - 01133667777</item>
+        <item>Customer Service Mumbai - 02233667777</item>
+        <item>Customer Service Patna - 06123366777</item>
+        <item>Customer Service Goa - 9021667777</item>
+
+    </string-array>
+
+</resources>

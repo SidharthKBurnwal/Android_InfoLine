@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.infoline">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <application
+
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/MyMaterialTheme">
+        <activity android:name=".activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!--Health-->
+        <activity android:name=".activity.CancerActivity"></activity>
+        <activity android:name=".activity.AccidentActivity"></activity>
+        <activity android:name=".activity.DepressionActivity"></activity>
+        <activity android:name=".activity.DiabetiesActivity"></activity>
+        <activity android:name=".activity.HIVActivity"></activity>
+        <activity android:name=".activity.PeriodsActivity"></activity>
+        <activity android:name=".activity.RapeActivity"></activity>
+
+        <!--Network-->
+        <activity android:name=".network.AirtelActivity"></activity>
+        <activity android:name=".network.BSNLActivity"></activity>
+        <activity android:name=".network.DoCoMoActivity"></activity>
+        <activity android:name=".network.IdeaActivity"></activity>
+        <activity android:name=".network.RelianceActivity"></activity>
+        <activity android:name=".network.VodaActivity"></activity>
+
+        <!--Bank-->
+        <activity android:name=".bank.AxisActivity"></activity>
+        <activity android:name=".bank.BobActivity"></activity>
+        <activity android:name=".bank.HdfcActivity"></activity>
+        <activity android:name=".bank.IciciActivity"></activity>
+        <activity android:name=".bank.PnbActivity"></activity>
+        <activity android:name=".bank.SbiActivity"></activity>
+
+    </application>
+
+
+</manifest>
